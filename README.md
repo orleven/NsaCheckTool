@@ -23,6 +23,23 @@ NSA 工具所涉及到的漏洞，例如：永恒之蓝等等,检测的内容包
     Explodingcan
 ```
 
+## 输出结果
+
+```
+[.] 192.168.111.129
+[+] ETERNALBLUE Exploitation Is Vulnerable!
+[?] ETERNALSYNERGY Exploitation Is Not Supported!
+[+] ETERNALROMANCE Exploitation Is Vulnerable!
+[-] Eclipsedwing Exploitation Is Not Vulnerable!
+[-] Doublepulsar Exploitation Is Not Vulnerable!
+[+] Esteemaudit Exploitation Is Vulnerable!
+[!] Explodingcan Exploitation Is Unreachable!
+[+] ETERNALCHAMPION Exploitation Is Vulnerable!
+[-] Educatedscholar Exploitation Is Not Vulnerable!
+[-] Erraticgopher Exploitation Is Not Vulnerable!
+[-] Emeraldthread Exploitation Is Not Vulnerable!
+```
+
 ## 其他 
 
 1.  支持批量扫描，字典例子为： ip，例如：
