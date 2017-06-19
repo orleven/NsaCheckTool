@@ -1,4 +1,4 @@
-# NSA Check Tool (v.beta 1.1)  
+# NSA Check Tool (beta 1.1)  
 
 ## 脚本运行环境： 
     Linux系统
