@@ -1,0 +1,41 @@
+<t:config xmlns:t='urn:trch' name='Esteemaudittouch' version='2.1.0' schemaversion='2.1.0' configversion='2.1.0.0' id='d685b3979e2b52bd60cb34c4c0f91b522fa28f54'>
+  <t:inputparameters>
+    <t:parameter type='IPv4' name='TargetIp' description='Target IP Address'>
+      <t:value>192.168.111.211</t:value>
+    </t:parameter>
+    <t:parameter type='TcpPort' name='TargetPort' description='Port used by the RDP service'>
+      <t:default>3389</t:default>
+      <t:value>3389</t:value>
+    </t:parameter>
+    <t:parameter type='S16' name='NetworkTimeout' description='Timeout for blocking network calls (in seconds).  Use -1 for no timeout.'>
+      <t:default>60</t:default>
+      <t:value>10</t:value>
+    </t:parameter>
+    <t:parameter type='S16' name='PacketTimeout' description='Timeout for each RDP packet.'>
+      <t:default>10</t:default>
+    </t:parameter>
+    <t:parameter type='U32' name='MaxProcessCount' description='The maximum number of RDP process loops to allow'>
+      <t:default>300</t:default>
+    </t:parameter>
+    <t:parameter hidden='true' type='Boolean' name='SendSpacebar' description='Whether to send spacebar to clear legal text caption or not'>
+      <t:default>false</t:default>
+    </t:parameter>
+    <t:parameter hidden='true' type='U32' name='ProcessCountToSendSpaceOn' description='Process loop to clear the legal text caption on'>
+      <t:default>3</t:default>
+    </t:parameter>
+    <t:parameter hidden='true' type='U32' name='MaxRDPLibErrorCount' description='Maximum number of RDPLib errors to allow'>
+      <t:default>3</t:default>
+    </t:parameter>
+  </t:inputparameters>
+  <t:outputparameters>
+    <t:parameter type='String' name='Architecture' description='Type of processor the target is running on'/>
+    <t:parameter type='String' name='Target' description='Operating system and service pack of the target'/>
+    <t:parameter type='String' name='EncryptionMethod' description='Encryption method the target is running'/>
+    <t:parameter type='Boolean' name='SmartCardAuth' description='If the target supports smart card authentication'/>
+    <t:parameter type='U32' name='RdpLibHertz' description='Extrapolated RdpLib processing cycles per second.'/>
+    <t:parameter type='String' name='Contract' description='The contract fulfilled by this plugin'/>
+  </t:outputparameters>
+  <t:redirection>
+    <t:local protocol='TCP' listenaddr='TargetIp' listenport='TargetPort' closeoncompletion='true' destaddr='TargetIp' destport='TargetPort'/>
+  </t:redirection>
+</t:config>

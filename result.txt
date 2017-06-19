@@ -1,0 +1,92 @@
+
+[.] 192.168.111.167
+[+] ETERNALBLUE Exploitation Is Vulnerable!
+[?] ETERNALSYNERGY Exploitation Is Not Supported!
+[+] ETERNALROMANCE Exploitation Is Vulnerable!
+[-] Doublepulsar Exploitation Is Not Vulnerable!
+[+] Eclipsedwing Exploitation Is Vulnerable!
+[+] Esteemaudit Exploitation Is Vulnerable!
+[!] Explodingcan Exploitation Is Unreachable!
+[+] ETERNALCHAMPION Exploitation Is Vulnerable!
+[-] Educatedscholar Exploitation Is Not Vulnerable!
+[-] Erraticgopher Exploitation Is Not Vulnerable!
+[-] Emeraldthread Exploitation Is Not Vulnerable!
+
+[.] 192.168.111.165
+[+] ETERNALBLUE Exploitation Is Vulnerable!
+[?] ETERNALSYNERGY Exploitation Is Not Supported!
+[+] ETERNALROMANCE Exploitation Is Vulnerable!
+[+] Doublepulsar Exploitation Is Vulnerable!
+[-] Eclipsedwing Exploitation Is Not Vulnerable!
+[-] Esteemaudit Exploitation Is Not Vulnerable!
+[-] Explodingcan Exploitation Is Not Vulnerable!
+[+] ETERNALCHAMPION Exploitation Is Vulnerable!
+[-] Educatedscholar Exploitation Is Not Vulnerable!
+[-] Erraticgopher Exploitation Is Not Vulnerable!
+[-] Emeraldthread Exploitation Is Not Vulnerable!
+
+[.] 192.168.111.211
+[!] ETERNALBLUE Exploitation Is Unreachable!
+[!] ETERNALROMANCE Exploitation Is Unreachable!
+[!] ETERNALCHAMPION Exploitation Is Unreachable!
+[!] Eclipsedwing Exploitation Is Unreachable!
+[!] Doublepulsar Exploitation Is Unreachable!
+[!] Esteemaudit Exploitation Is Unreachable!
+[!] Explodingcan Exploitation Is Unreachable!
+[!] ETERNALSYNERGY Exploitation Is Unreachable!
+[!] Educatedscholar Exploitation Is Unreachable!
+[!] Erraticgopher Exploitation Is Unreachable!
+[!] Emeraldthread Exploitation Is Unreachable!
+
+[.] 192.168.111.155
+[+] ETERNALBLUE Exploitation Is Vulnerable!
+[?] ETERNALSYNERGY Exploitation Is Not Supported!
+[-] ETERNALROMANCE Exploitation Is Not Vulnerable!
+[-] Doublepulsar Exploitation Is Not Vulnerable!
+[-] Eclipsedwing Exploitation Is Not Vulnerable!
+[-] Esteemaudit Exploitation Is Not Vulnerable!
+[!] Explodingcan Exploitation Is Unreachable!
+[-] ETERNALCHAMPION Exploitation Is Not Vulnerable!
+[-] Educatedscholar Exploitation Is Not Vulnerable!
+[-] Erraticgopher Exploitation Is Not Vulnerable!
+[-] Emeraldthread Exploitation Is Not Vulnerable!
+
+[.] 192.168.111.154
+[?] ETERNALBLUE Exploitation Is Not Supported!
+[?] ETERNALSYNERGY Exploitation Is Not Supported!
+[+] ETERNALROMANCE Exploitation Is Vulnerable!
+[-] Doublepulsar Exploitation Is Not Vulnerable!
+[-] Eclipsedwing Exploitation Is Not Vulnerable!
+[+] Esteemaudit Exploitation Is Vulnerable!
+[+] Explodingcan Exploitation Is Vulnerable!
+[+] ETERNALCHAMPION Exploitation Is Vulnerable!
+[-] Educatedscholar Exploitation Is Not Vulnerable!
+[-] Erraticgopher Exploitation Is Not Vulnerable!
+[-] Emeraldthread Exploitation Is Not Vulnerable!
+
+[.] 192.168.111.159
+[!] ETERNALBLUE Exploitation Is Unreachable!
+[!] ETERNALROMANCE Exploitation Is Unreachable!
+[!] ETERNALCHAMPION Exploitation Is Unreachable!
+[!] Doublepulsar Exploitation Is Unreachable!
+[!] Eclipsedwing Exploitation Is Unreachable!
+[!] Esteemaudit Exploitation Is Unreachable!
+[!] Explodingcan Exploitation Is Unreachable!
+[!] ETERNALSYNERGY Exploitation Is Unreachable!
+[!] Educatedscholar Exploitation Is Unreachable!
+[!] Erraticgopher Exploitation Is Unreachable!
+[!] Emeraldthread Exploitation Is Unreachable!
+
+[.] 192.168.111.129
+[+] ETERNALBLUE Exploitation Is Vulnerable!
+[?] ETERNALSYNERGY Exploitation Is Not Supported!
+[+] ETERNALROMANCE Exploitation Is Vulnerable!
+[-] Eclipsedwing Exploitation Is Not Vulnerable!
+[-] Doublepulsar Exploitation Is Not Vulnerable!
+[+] Esteemaudit Exploitation Is Vulnerable!
+[!] Explodingcan Exploitation Is Unreachable!
+[+] ETERNALCHAMPION Exploitation Is Vulnerable!
+[-] Educatedscholar Exploitation Is Not Vulnerable!
+[-] Erraticgopher Exploitation Is Not Vulnerable!
+[-] Emeraldthread Exploitation Is Not Vulnerable!
+
